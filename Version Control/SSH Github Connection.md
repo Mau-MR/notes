@@ -2,31 +2,13 @@
 
 >Check the full reference on: https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-
 
-
-<h2>SSH-KEY generator</h2>
-
-```sh
-ssh-keygen -t ed25519 -C "your_email@example.com"
-```
+## [[SSH  Commands#^fdf13b | Generate SSH key]]
 
 ## Adding your SSH key to the ssh-agent
 
-Before adding a new SSH key to the ssh-agent to manage your keys, you should have checked for existing SSH keys and generated a new SSH key.
+Before adding a new SSH key to the ssh-agent to manage your keys, you should have checked for existing SSH keys and generated a new SSH key 
 
-1.  Inicia el agente SSH en segundo plano.
-
-    ```sh
-    $ eval "$(ssh-agent -s)"
-    > Agent pid 59566
-    ```
-
-    Dependiendo de tu ambiente, puede que necesites utilizar un comando diferente. Por ejemplo, puede que necesites utilizar acceso de raíz ejecutando `sudo -s -H` antes de iniciar el ssh-agent, o puede que necesites utilizar `exec ssh-agent bash` o `exec ssh-agent zsh` para ejecutar el ssh-agent.
-
-2.  Add your SSH private key to the ssh-agent. Si creaste tu llave con un nombre diferente o si estás agregando una llave existente que tenga un nombre diferente, reemplaza a _id_ed25519_ en el comando con el nombre de tu archivo de llave privada.
-  
-    ```sh
-    $ ssh-add ~/.ssh/id_ed25519
-    ```
+[[SSH  Commands#^8ad3ce|SSH-Agent]]
   
 3.  Add the SSH key to your account on GitHub. For more information, see "[Adding a new SSH key to your GitHub account](https://docs.github.com/es/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)."
 

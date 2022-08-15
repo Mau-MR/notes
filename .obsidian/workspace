@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "4d1d3777b2f9489f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8de72f8b9fd8fae",
+        "type": "leaf",
+        "dimension": 85.73351278600269,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/SSH  Commands.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "47fe885c96a82706"
+      },
+      {
+        "id": "3f6ece94e82a33ca",
+        "type": "leaf",
+        "dimension": 14.266487213997308,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Linux/SSH  Commands.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "47fe885c96a82706"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a0d03a38e14160f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2deb5d547f811ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41eb76176ead677c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c7aec4c6bfcecdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6218d7a777a5227f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4eef6055701f07cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d8aec8e6d59765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898e1b9e9090d884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/SSH  Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ff2a932ee84aa97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/SSH  Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5642545512fdbcf5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "733d1be9b8cefa3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/SSH  Commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f8de72f8b9fd8fae",
+  "lastOpenFiles": [
+    "Linux/Install .deb file.md",
+    "Version Control/SSH Github Connection.md",
+    "Node/Install with nvm.md",
+    "Linux/SSH  Commands.md",
+    "Node/Node Installation  with NVM.md"
+  ]
+}
