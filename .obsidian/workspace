@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8de72f8b9fd8fae",
+        "id": "68d98d7e5d2c62ec",
         "type": "leaf",
-        "dimension": 85.73351278600269,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/SSH  Commands.md",
+            "file": "Version Control/Git Commands.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
-        },
-        "group": "47fe885c96a82706"
-      },
-      {
-        "id": "3f6ece94e82a33ca",
-        "type": "leaf",
-        "dimension": 14.266487213997308,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Linux/SSH  Commands.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "47fe885c96a82706"
+        }
       }
     ],
     "direction": "vertical"
@@ -116,9 +78,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH  Commands.md",
+                "file": "Version Control/Git Commands.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -133,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH  Commands.md",
+                "file": "Version Control/Git Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH  Commands.md"
+                "file": "Version Control/Git Commands.md"
               }
             }
           }
@@ -167,12 +129,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8de72f8b9fd8fae",
+  "active": "68d98d7e5d2c62ec",
   "lastOpenFiles": [
     "Linux/Install .deb file.md",
-    "Version Control/SSH Github Connection.md",
     "Node/Install with nvm.md",
     "Linux/SSH  Commands.md",
+    "Version Control/Git Commands.md",
+    "Version Control/SSH Github Connection.md",
+    "2022-08-15.md",
     "Node/Node Installation  with NVM.md"
   ]
 }

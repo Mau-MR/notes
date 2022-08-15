@@ -1,17 +1,11 @@
 # SSH Commands
 
 ## Generate SSH Key
-
-^fdf13b
-
 ```sh
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 
 ## SSH Agent Commands
-
-^8ad3ce
-
 1.  Inicia el agente SSH en segundo plano.
 
     ```sh
@@ -26,3 +20,6 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
     ```sh
     $ ssh-add ~/.ssh/id_ed25519
     ```
+
+```js
+```

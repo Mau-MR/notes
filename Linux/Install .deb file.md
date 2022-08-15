@@ -4,6 +4,7 @@
 sudo dpkg -i package_file.deb
 ```
 ## uninstall debian .deb package
+
 ```sh
 sudo apt-get remove package_name
 ```
