@@ -17,10 +17,10 @@ Before adding a new SSH key to the ssh-agent to manage your keys, you should hav
 
 -   Ingresa lo siguiente:
   
-    ```sh
-    $ ssh -T git@github.com
-    # Attempts to ssh to GitHub
-    ```
+```sh
+$ ssh -T git@github.com
+# Attempts to ssh to GitHub
+```
 
 Puedes ver una advertencia como la siguiente:
 

@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Version Control/Git Commands.md",
-            "mode": "source",
+            "file": "MetaLanguages/Markdown.md",
+            "mode": "preview",
             "backlinks": true,
-            "source": false
+            "source": true
           }
         }
       }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Version Control/Git Commands.md",
+                "file": "MetaLanguages/Markdown.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Version Control/Git Commands.md",
+                "file": "MetaLanguages/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Version Control/Git Commands.md"
+                "file": "MetaLanguages/Markdown.md"
               }
             }
           }
@@ -131,12 +131,15 @@
   },
   "active": "68d98d7e5d2c62ec",
   "lastOpenFiles": [
-    "Linux/Install .deb file.md",
-    "Node/Install with nvm.md",
-    "Linux/SSH  Commands.md",
     "Version Control/Git Commands.md",
-    "Version Control/SSH Github Connection.md",
-    "2022-08-15.md",
-    "Node/Node Installation  with NVM.md"
+    "MetaLanguages/Markdown.md",
+    "Linux/SSH  Commands.md",
+    "Linux/NotQtile.md",
+    "Linux/Simbolic Links.md",
+    "Linux/Neovim.md",
+    "Linux/Install .deb file.md",
+    "Linux/Install .appimage  application.md",
+    "Node/Install with nvm.md",
+    "Python/Numpy.md"
   ]
 }
